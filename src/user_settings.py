@@ -3,7 +3,7 @@
 # List of source URLs to fetch proxy configurations from.
 # Add or remove URLs as needed. All URLs in this list are automatically enabled.
 SOURCE_URLS = [
-    "https://getafreenode.com/subscribe/?uuid=45cc0b3a-0adb-4dcc-8f54-4ba3d2cc274e",
+    "https://getafreenode.com/subscribe/?uuid=80b2ac81-ba69-41f9-bb46-820b7b3af4dd",
     # Add more URLs here if you want to include additional sources.
 ]
 
